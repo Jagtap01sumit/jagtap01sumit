@@ -4,7 +4,11 @@
 
 
 ### 💫 About Me:
-I'm Sumit Jagtap, a passionate Software Engineer dedicated to innovation and continuous learning in the dynamic world of technology. With a strong foundation in various tech domains, I'm always eager to learn new things, tackle challenging projects, and collaborate for innovative solutions. Join me on this exciting journey of exploration and growth!
+🌟 Sumit Jagtap here, a Software Engineer with a zest for innovation and a hunger for learning. 
+
+💡 Across diverse tech domains, I thrive on tackling challenges and embracing new opportunities. 
+
+🚀 Join me on this thrilling journey of exploration and development in the tech realm! 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagtap__sumit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-jagtap-577a77241/) 
@@ -23,9 +27,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
 <img src="./assets/programmer-gif.gif"  width="60%" align="right" padding="10px" margin="5px"border-radius="10px"/>
 </div>
+
+### 💻 Tech Stack
+
 <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
 </a>
