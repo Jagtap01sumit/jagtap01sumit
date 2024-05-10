@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="./assets/programmer-gif.gif"  width="60%" align="right" padding="10px" margin="5px"border-radius="10px"/>
+<img src="./assets/programmer-gif.gif"  width="40%" align="right" padding="10px" margin="5px"border-radius="10px"/>
 </div>
 
 ### 💻 Tech Stack
