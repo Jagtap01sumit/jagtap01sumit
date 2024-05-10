@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align="center">
+<img src="./assets/programmer-gif.gif"  width="60%" align="right" padding="10px" margin="5px"border-radius="10px"/>
+</div>
 <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./assets/typescript-logo.svg" />
 </a>
@@ -30,3 +32,5 @@ Here are some ideas to get you started:
 <a href="https://nextjs.org" target="_blank">
   <img align="left" title="Next Js" alt="Next Js" width="40px" src="./assets/next-logo.svg" />
 </a>
+
+
