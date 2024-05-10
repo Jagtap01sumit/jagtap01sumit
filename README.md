@@ -7,7 +7,7 @@
 I'm Sumit Jagtap, a passionate Software Engineer dedicated to innovation and continuous learning in the dynamic world of technology. With a strong foundation in various tech domains, I'm always eager to learn new things, tackle challenging projects, and collaborate for innovative solutions. Join me on this exciting journey of exploration and growth!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/jagtap__sumit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-jagtap-577a77241/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagtap__sumit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-jagtap-577a77241/) 
 
 <!--
 **Jagtap01sumit/jagtap01sumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
