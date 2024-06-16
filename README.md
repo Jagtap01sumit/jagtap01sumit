@@ -41,7 +41,7 @@
 
 
 
-<a href=#><img src="https://github.com/ImSuryasen/ImSuryasen/blob/main/snake.svg"></a>
+<a href=#><img src="./assets/snake.svg"></a>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
