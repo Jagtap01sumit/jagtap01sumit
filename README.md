@@ -22,20 +22,25 @@
 ### 💻 Tech Stack
 
 <a href="https://www.typescriptlang.org" target="_blank">
-  <img align="left" title="Typescript" alt="Typescript" width="30px" src="./assets/typescript-logo.svg" />
+  <img align="left" padding-bottom="0.1px" title="Typescript" alt="Typescript" width="20px" src="./assets/typescript-logo.svg" />
 </a>
 
 <a href="https://pt-br.reactjs.org" target="_blank">
- <img align="left" title="React and React Native" alt="React and React Native" width="30px" src="./assets/react-logo.svg" />
+ <img align="left" padding-bottom="0.1px" title="React and React Native" alt="React and React Native" width="20px" src="./assets/react-logo.svg" />
 </a>
 
 <a href="https://tailwindcss.com" target="_blank">
- <img align="left" title="Tailwind Css" alt="Tailwind Css" width="30px" src="./assets/tailwind-logo.svg" />
+ <img align="left" padding-bottom="0.1px" title="Tailwind Css" alt="Tailwind Css" width="20px" src="./assets/tailwind-logo.svg" />
 </a>
 
 <a href="https://nextjs.org" target="_blank">
-  <img align="left" title="Next Js" alt="Next Js" width="30px" src="./assets/next-logo.svg" />
+  <img align="left" padding-bottom="0.1px" title="Next Js" alt="Next Js" width="20px" src="./assets/next-logo.svg" />
 </a>
+
+
+
+
+
 
 
 
