@@ -3,7 +3,7 @@
 <h1 align="center" font="bold">Sumit Jagtap, Software Engineer 🚀</h1>
 
 <div align="center">
-<img src="./assets/programmer-gif.gif"  width="40%" align="right" padding="10px" margin="5px"border-radius="10px"/>
+<img src="./assets/programmer-gif.gif"  width="40%" align="right" padding="10px" margin="5px" border-radius="10px"/>
 </div>
 
 ### 💫 About Me:
@@ -13,7 +13,7 @@
 
 🚀 Join me on this thrilling journey of exploration and development in the tech realm! 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-jagtap-577a77241/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagtap__sumit) 
 
