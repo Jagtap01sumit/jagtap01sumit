@@ -20,14 +20,19 @@
 
 
 ### 💻 Tech Stack
-
+<a href="https://java.org" target="_blank">
+  <img align="left" padding-bottom="0.1px" title="Java" alt="Java" width="20px" src="./assets/java.png" />
+</a>
+<a href="https://js.org" target="_blank">
+  <img align="left" padding-bottom="0.1px" title="JS" alt="Js" width="20px" src="./assets/JavaScript-logo.png" />
+</a>
+<a href="https://pt-br.reactjs.org" target="_blank">
+ <img align="left" padding-bottom="0.1px" title="React and React Native" alt="React and React Native" width="20px" src="./assets/react-logo.svg" />
+</a>
 <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" padding-bottom="0.1px" title="Typescript" alt="Typescript" width="20px" src="./assets/typescript-logo.svg" />
 </a>
 
-<a href="https://pt-br.reactjs.org" target="_blank">
- <img align="left" padding-bottom="0.1px" title="React and React Native" alt="React and React Native" width="20px" src="./assets/react-logo.svg" />
-</a>
 
 <a href="https://tailwindcss.com" target="_blank">
  <img align="left" padding-bottom="0.1px" title="Tailwind Css" alt="Tailwind Css" width="20px" src="./assets/tailwind-logo.svg" />
