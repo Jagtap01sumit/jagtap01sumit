@@ -26,6 +26,18 @@
 <a href="https://js.org" target="_blank">
   <img align="left" padding-bottom="0.1px" title="JS" alt="Js" width="20px" src="./assets/JavaScript-logo.png" />
 </a>
+<a href="https://js.org" target="_blank">
+  <img align="left" padding-bottom="0.1px" title="Node" alt="Node" width="43px"  src="./assets/nodee.png" />
+</a>
+<a href="https://js.org" target="_blank">
+  <img align="left" padding-bottom="0.1px" title="JS" alt="express" width="20px" src="./assets/express.png" />
+</a>
+<a href="https://mongodb.org" target="_blank">
+  <img align="left" padding-bottom="0.1px" title="mongodb" alt="Js" width="20px" src="./assets/mongodb.png" />
+</a>
+<a href="https://mongodb.org" target="_blank">
+  <img align="left" padding-bottom="0.1px" title="expoo" alt="Js" width="20px"  src="./assets/expooooo.png" />
+</a>
 <a href="https://pt-br.reactjs.org" target="_blank">
  <img align="left" padding-bottom="0.1px" title="React and React Native" alt="React and React Native" width="20px" src="./assets/react-logo.svg" />
 </a>
