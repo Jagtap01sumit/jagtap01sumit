@@ -3,7 +3,7 @@
 <h1 align="center" font="bold">Sumit Jagtap, Software Engineer 🚀</h1>
 
 <div align="center">
-<img src="./assets/programmer-gif.gif"  width="40%" align="right" padding="10px" margin="5px" border-radius="10px"/>
+<img src="./assets/programmer-gif.gif"  width="35%" align="right" padding="10px" margin="5px" border-radius="10px"/>
 </div>
 
 ### 💫 About Me:
